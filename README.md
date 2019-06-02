@@ -1,2 +1,2 @@
-# inventory
-Test inventory project
+#Inventory Test Project
+Please Update database credential from .env
