@@ -1,0 +1,2 @@
+# inventory
+Test inventory project
